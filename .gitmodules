@@ -1,0 +1,18 @@
+[submodule "2018-CVPR-InstDis"]
+	path = 2018-CVPR-InstDis
+	url = https://github.com/zhirongw/lemniscate.pytorch.git
+[submodule "2019-CVPR-InvaSpread"]
+	path = 2019-CVPR-InvaSpread
+	url = https://github.com/mangye16/Unsupervised_Embedding_Learning.git
+[submodule "2019-arxiv-CPC-pytorch"]
+	path = 2019-arxiv-CPC-pytorch
+	url = https://github.com/jefflai108/Contrastive-Predictive-Coding-PyTorch.git
+[submodule "2019-arxiv-CPC-keras"]
+	path = 2019-arxiv-CPC-keras
+	url = https://github.com/davidtellez/contrastive-predictive-coding.git
+[submodule "2020-ECCV-CMC"]
+	path = 2020-ECCV-CMC
+	url = https://github.com/HobbitLong/CMC.git
+[submodule "2020-ICML-SimCLRv1andv2"]
+	path = 2020-ICML-SimCLRv1andv2
+	url = https://github.com/google-research/simclr.git
