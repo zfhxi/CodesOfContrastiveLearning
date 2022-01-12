@@ -1,8 +1,9 @@
 # CodesOfContrastiveLearning
 the collected repositories of popular contrastive learning papers
 
-|2018-CVPR-InstDis|Unsupervised Feature Learning via Non-parameteric Instance Discrimination. [arXiv](https://arxiv.org/pdf/1805.01978.pdf)|
+|title|link|
 |:----|----:|
+|2018-CVPR-InstDis|Unsupervised Feature Learning via Non-parameteric Instance Discrimination. [arXiv](https://arxiv.org/pdf/1805.01978.pdf)|
 |2019-CVPR-InvaSpread|Unsupervised Embedding Learning via Invariant and Spreading Instance Feature. [arXiv](https://arxiv.org/abs/1904.03436)|
 |2019-arxiv-CPC-keras|Representation Learning with Contrastive Predictive Coding.[arXiv](https://arxiv.org/abs/1807.03748)|
 |2019-arxiv-CPC-pytorch|Representation Learning with Contrastive Predictive Coding.[arXiv](https://arxiv.org/abs/1807.03748)|
