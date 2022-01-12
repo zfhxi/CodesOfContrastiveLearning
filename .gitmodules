@@ -16,18 +16,20 @@
 [submodule "2020-ICML-SimCLRv1andv2"]
 	path = 2020-ICML-SimCLRv1andv2
 	url = https://github.com/google-research/simclr.git
-[submodule "2020-CVPR-MoCov1andv2"]
-	path = 2020-CVPR-MoCov1andv2
-	url = https://github.com/facebookresearch/moco.git
+
 [submodule "2020-NIPS-SwAV"]
 	path = 2020-NIPS-SwAV
 	url = https://github.com/facebookresearch/swav.git
-[submodule "2020-arXiv-SimSiam"]
-	path = 2020-arXiv-SimSiam
-	url = https://github.com/facebookresearch/simsiam.git
-[submodule "2021-arXiv-MoCov3"]
-	path = 2021-arXiv-MoCov3
-	url = https://github.com/facebookresearch/moco-v3.git
-[submodule "2021-arXiv-DINO"]
-	path = 2021-arXiv-DINO
+
+[submodule "2021-ICCV-DINO"]
+	path = 2021-ICCV-DINO
 	url = https://github.com/facebookresearch/dino.git
+[submodule "2021-ICCV-MOCOv3"]
+	path = 2021-ICCV-MOCOv3
+	url = https://github.com/facebookresearch/moco-v3.git
+[submodule "2021-CVPR-SimSiam"]
+	path = 2021-CVPR-SimSiam
+	url = https://github.com/facebookresearch/simsiam.git
+[submodule "2020-CVPR-MOCOv1andv2"]
+	path = 2020-CVPR-MOCOv1andv2
+	url = https://github.com/facebookresearch/moco
