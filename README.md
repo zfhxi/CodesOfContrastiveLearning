@@ -17,3 +17,7 @@ the collected repositories of popular contrastive learning papers
 |2021-CVPR-SimSiam|Exploring Simple Siamese Representation Learning. [arXiv](https://arxiv.org/abs/2011.10566)|
 |2021-ICCV-MOCOv3|An Empirical Study of Training Self-Supervised Vision Transformers. [arXiv](https://arxiv.org/abs/2104.02057)|
 |2021-ICCV-DINO|Emerging Properties in Self-Supervised Vision Transformers. [arXiv](https://arxiv.org/abs/2104.14294)|
+
+# Reference
+
+1. [mli/paper-reading](https://github.com/mli/paper-reading)
